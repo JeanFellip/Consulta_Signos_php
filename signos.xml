@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+
+    <sign>
+        <name>Áries</name>
+        <startDay>21</startDay>
+        <startMonth>3</startMonth>
+        <endDay>19</endDay>
+        <endMonth>4</endMonth>
+        <description>Áries é um signo de iniciativa, coragem e energia.</description>
+    </sign>
+
+    <sign>
+        <name>Touro</name>
+        <startDay>20</startDay>
+        <startMonth>4</startMonth>
+        <endDay>20</endDay>
+        <endMonth>5</endMonth>
+        <description>Touro é persistente, paciente e determinado.</description>
+    </sign>
+
+    <sign>
+        <name>Gêmeos</name>
+        <startDay>21</startDay>
+        <startMonth>5</startMonth>
+        <endDay>20</endDay>
+        <endMonth>6</endMonth>
+        <description>Gêmeos é comunicativo, curioso e versátil.</description>
+    </sign>
+
+    <sign>
+        <name>Câncer</name>
+        <startDay>21</startDay>
+        <startMonth>6</startMonth>
+        <endDay>22</endDay>
+        <endMonth>7</endMonth>
+        <description>Câncer é sensível, protetor e ligado à família.</description>
+    </sign>
+
+    <sign>
+        <name>Leão</name>
+        <startDay>23</startDay>
+        <startMonth>7</startMonth>
+        <endDay>22</endDay>
+        <endMonth>8</endMonth>
+        <description>Leão é confiante, criativo e gosta de liderar.</description>
+    </sign>
+
+    <sign>
+        <name>Virgem</name>
+        <startDay>23</startDay>
+        <startMonth>8</startMonth>
+        <endDay>22</endDay>
+        <endMonth>9</endMonth>
+        <description>Virgem é organizado, atento aos detalhes e responsável.</description>
+    </sign>
+
+    <sign>
+        <name>Libra</name>
+        <startDay>23</startDay>
+        <startMonth>9</startMonth>
+        <endDay>22</endDay>
+        <endMonth>10</endMonth>
+        <description>Libra busca equilíbrio, justiça e harmonia.</description>
+    </sign>
+
+    <sign>
+        <name>Escorpião</name>
+        <startDay>23</startDay>
+        <startMonth>10</startMonth>
+        <endDay>21</endDay>
+        <endMonth>11</endMonth>
+        <description>Escorpião é intenso, determinado e misterioso.</description>
+    </sign>
+
+    <sign>
+        <name>Sagitário</name>
+        <startDay>22</startDay>
+        <startMonth>11</startMonth>
+        <endDay>21</endDay>
+        <endMonth>12</endMonth>
+        <description>Sagitário é aventureiro, otimista e amante da liberdade.</description>
+    </sign>
+
+    <sign>
+        <name>Capricórnio</name>
+        <startDay>22</startDay>
+        <startMonth>12</startMonth>
+        <endDay>19</endDay>
+        <endMonth>1</endMonth>
+        <description>Capricórnio é disciplinado, responsável e focado.</description>
+    </sign>
+
+    <sign>
+        <name>Aquário</name>
+        <startDay>20</startDay>
+        <startMonth>1</startMonth>
+        <endDay>18</endDay>
+        <endMonth>2</endMonth>
+        <description>Aquário é criativo, independente e inovador.</description>
+    </sign>
+
+    <sign>
+        <name>Peixes</name>
+        <startDay>19</startDay>
+        <startMonth>2</startMonth>
+        <endDay>20</endDay>
+        <endMonth>3</endMonth>
+        <description>Peixes é sensível, intuitivo e sonhador.</description>
+    </sign>
+
+</signos>
